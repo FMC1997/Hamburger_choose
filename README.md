@@ -5,8 +5,8 @@ Criei um simples site onde manipulo um svg de um hambúrguer, onde dou a opção
 
 Programa usado para criar o svg: [Inkscape](https://inkscape.org/pt/) </p>
 - Gravei o svg como plano,
-- transformei as class em id,l
-- impei o código no site [jakearchibald](https://jakearchibald.github.io)
-- adicionei o código no ficheiro html
+- Transformei as class em id,
+- Limpei o código no site [jakearchibald](https://jakearchibald.github.io),
+- Adicionei o código no ficheiro html.
 
 
